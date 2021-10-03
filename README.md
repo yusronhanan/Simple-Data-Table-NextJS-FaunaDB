@@ -10,7 +10,7 @@ npm i -g next
 - Open the .env.local.example as example format for .env.local file
 - Ask the repo owner for the secret key
 
-- Install all the dependenciy
+- Install all dependency
 
 ```
 npm install
