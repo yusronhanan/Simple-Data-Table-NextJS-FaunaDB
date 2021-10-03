@@ -25,3 +25,5 @@ npm run dev
 - The project will run in localhost:3000
 
 ## Live Demo
+
+[Click Here](https://simple-datatable-yusron.netlify.app/)
